@@ -9,3 +9,6 @@ User can:
 - Remove current task from list
 
 All added tasks are stored in LocalStorage
+
+Live demo:
+https://pkrawczyk437.github.io/todoApp/
