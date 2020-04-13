@@ -1,5 +1,5 @@
 # todoApp
-Todoapp created with pure javascript.
+Todo app created with pure javascript.
 Here I tried to test some es6 features like new array methods, 
 which in my opinion are much better than earlier ways of doing some operations on this type of data structure.
 
